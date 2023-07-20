@@ -1,0 +1,28 @@
+{
+	"name": "AWP-View-Dropdown",
+	"description": "AWP View Dropdown",
+	"newInstancePrefix": "AWP-View-Dropdown",
+	"eula": "",
+	"license": "",
+	"id": "AWP-View-Dropdown",
+	"version": "1.0.0",
+	"icon": "",
+	"webcomponents": [
+		{
+			"kind": "main",
+			"tag": "awp-view-dropdown",
+			"url": "https://kandpalpranav.github.io/CustomWidget/Webcomponent.js",
+			"integrity": ""	,
+			"ignoreIntegrity": true
+		}		
+	],
+	"properties": {
+
+	},
+	"methods": {
+		
+	},
+	"events": {
+
+	}
+}
